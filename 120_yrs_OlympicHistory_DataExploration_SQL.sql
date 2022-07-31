@@ -5,7 +5,7 @@ Data source:	https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-histo
 
 Skills Used: 	Joins, CTE's,Window functions,Aggregate functions
 
-Description:	I imported Olympic history data into the local PostgresSQL Server to make it more usable for the following analysis.
+Description:	I imported Olympic history data into the local PostgreSQL Server to make it more usable for the following analysis.
 ***********************************************************************************************************************************/
 
 /************************** SCHEMA **************************/
