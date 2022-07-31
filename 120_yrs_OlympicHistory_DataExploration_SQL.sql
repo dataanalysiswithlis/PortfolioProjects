@@ -5,7 +5,7 @@ Data source:	https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-histo
 
 Skills Used: 	Joins, CTE's,Window functions,Aggregate functions
 
-Description:	Imported Olympic history data in to local PostgresSQL Server to make it more usable for the following analysis.
+Description:	I imported Olympic history data into the local PostgresSQL Server to make it more usable for the following analysis.
 ***********************************************************************************************************************************/
 
 /************************** SCHEMA **************************/
@@ -63,14 +63,14 @@ select distinct games,season,city
 	from OLYMPIC_EVENTS
 	order by games;
 
---3.total number of countries participated in olympics
+--3.Total number of countries participated in olympics
 
 select count(distinct onr.region) as countries_participated
 	from olympic_events oe
 	join olympic_noc_regions onr 
 	on oe.noc=onr.noc
 
---4.fetch total no of countries participated in each olympic games.
+--4.Fetch total no of countries participated in each olympic games.
 
 select oe.games,count(distinct onr.region) as total_countries
 	from olympic_events oe
