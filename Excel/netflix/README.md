@@ -36,3 +36,7 @@ This tabular dataset consists of listings of all the movies and tv shows availab
 
 6.	duration: missing value information available on the internet, So I filled the data from the web.
 
+## Data Analysis
+
+Data analysis is done in Pivot Table and created dashboards using columns and pie charts.
+Please [click here](https://github.com/dataanalysiswithlis/PortfolioProjects/blob/main/Excel/netflix/My_analysis_netflix_movies_and_TV_shows.xlsx) to download the excel file to see the dashboards.
