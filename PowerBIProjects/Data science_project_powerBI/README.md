@@ -59,4 +59,6 @@ Data analysis is done in Power BI and dashboards are created.
 
 Please [download this pbit file](https://github.com/dataanalysiswithlis/PortfolioProjects/blob/main/PowerBIProjects/Data%20science_project_powerBI/powerBI_project_Data-science_analysis.pbit)  and open it in PowerBI to see the analysis.
 
-Please find the pdf version of dashboard [here](https://github.com/dataanalysiswithlis/PortfolioProjects/blob/main/PowerBIProjects/Data%20science_project_powerBI/Dashboards.pdf)
+Please [click here](https://github.com/dataanalysiswithlis/PortfolioProjects/blob/main/PowerBIProjects/Data%20science_project_powerBI/Dashboards.pdf) to see the pdf version of dashboard
+
+
